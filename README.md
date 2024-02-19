@@ -11,7 +11,7 @@
     <sup>Saiba mais em: <a href="https://github.com/Gustavo-Dalla/Projeto-Flora-Celeste/blob/main/Documenta%C3%A7%C3%A3o/MODELO%20PRE%20PROJETO%20TCC%202023_FLORA_CELESTE.docx">Pré Projeto Flora Celeste</a></sup>
     <h1>Acesso ao Projeto 📁</h1>
     <p>Você pode estar acessando o website aqui: <a href="https://gustavo-dalla.github.io/Projeto-Flora-Celeste/Codigo">FLORA CELESTE</a></p>
-    <p>Você pode estar acessando a documentaçãp aqui: <a href="https://github.com/Gustavo-Dalla/Projeto-Flora-Celeste/tree/main/Documenta%C3%A7%C3%A3o">DOCUMENTAÇÃO</a></p>
+    <p>Você pode estar acessando a documentação aqui: <a href="https://github.com/Gustavo-Dalla/Projeto-Flora-Celeste/tree/main/Documenta%C3%A7%C3%A3o">DOCUMENTAÇÃO</a></p>
     <p>Você pode estar acesando o design aqui: <a href="https://github.com/Gustavo-Dalla/Projeto-Flora-Celeste/tree/main/Design">DESIGN</a></p>
     <p>Você pode estar acesando a codificação aqui: <a href="https://github.com/Gustavo-Dalla/Projeto-Flora-Celeste/tree/main/Codigo">CODIFICAÇÃO</a></p>
     <h1>Envolvidos 👤</h1>
